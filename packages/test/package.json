@@ -14,6 +14,7 @@
     "lib"
   ],
   "publishConfig": {
+    "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
   "repository": {
@@ -26,5 +27,5 @@
   "bugs": {
     "url": "https://github.com/sj987123/tools/issues"
   },
-  "gitHead": "6b2732a419e9880aba6b2d4acbfb3099594eaacd"
+  "gitHead": "6336b5a9e79c71de127bace223188b02d9d16e39"
 }
