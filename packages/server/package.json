@@ -1,0 +1,29 @@
+{
+  "name": "@sj987123/server",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "sj987123 <1497709907@qq.com>",
+  "homepage": "https://github.com/sj987123/tools/tree/master/packages/server#readme",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sj987123/tools.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/sj987123/tools/issues"
+  },
+  "dependencies": {
+    "nodejs-websocket": "^1.7.2"
+  }
+}
