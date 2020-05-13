@@ -2,10 +2,5 @@
   "packages": [
     "packages/*"
   ],
-  "commands": {
-    "publish": {
-      "message": "chore(release): publish %v"
-    }
-  },
   "version": "independent"
 }
